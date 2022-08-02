@@ -1,0 +1,2 @@
+# App_Layout_FlutterNN_2022
+UI PART APP FLUTTER NN
